@@ -1,0 +1,37 @@
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\THA W12.exe.config
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\THA W12.exe
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\THA W12.pdb
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\Google.Protobuf.dll
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\MySql.Data.dll
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\System.Buffers.dll
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\System.Memory.dll
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\Google.Protobuf.pdb
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\Google.Protobuf.xml
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\MySql.Data.xml
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\System.Buffers.xml
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\System.Memory.xml
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ary_b\source\repos\THA W12\THA W12\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ary_b\source\repos\THA W12\THA W12\obj\Debug\THA W12.csproj.AssemblyReference.cache
+C:\Users\ary_b\source\repos\THA W12\THA W12\obj\Debug\THA W12.csproj.SuggestedBindingRedirects.cache
+C:\Users\ary_b\source\repos\THA W12\THA W12\obj\Debug\THA_W12.Form1.resources
+C:\Users\ary_b\source\repos\THA W12\THA W12\obj\Debug\THA_W12.Properties.Resources.resources
+C:\Users\ary_b\source\repos\THA W12\THA W12\obj\Debug\THA W12.csproj.GenerateResource.cache
+C:\Users\ary_b\source\repos\THA W12\THA W12\obj\Debug\THA W12.csproj.CoreCompileInputs.cache
+C:\Users\ary_b\source\repos\THA W12\THA W12\obj\Debug\THA W12.csproj.CopyComplete
+C:\Users\ary_b\source\repos\THA W12\THA W12\obj\Debug\THA W12.exe
+C:\Users\ary_b\source\repos\THA W12\THA W12\obj\Debug\THA W12.pdb
